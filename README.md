@@ -2,6 +2,12 @@
 
 - [博客地址](https://gitpress.io/@smallmartial)
 - [Java并发基础](https://gitpress.io/c/smallmartial/)
+- [Java数据结构](https://gitpress.io/c/structurexw/)
+- [Java技术总结](https://gitpress.io/c/newbase/)
+- [Vue学习笔记](https://gitpress.io/c/xwvue/)
+- [设计模式学习笔记](https://gitpress.io/c/xwdesignpatterns/)
+
+
 
 ## 作者简介:
 
