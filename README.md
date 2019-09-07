@@ -44,4 +44,5 @@
 
 > 我是小武呀
 
-![qrcode_for_gh_70c5a5673371_258](README.assets/qrcode_for_gh_70c5a5673371_258.jpg)
+![我是小武呀](README.assets/qrcode_for_gh_70c5a5673371_258-1567850325416.jpg)
+
