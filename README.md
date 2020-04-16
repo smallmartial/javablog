@@ -13,8 +13,13 @@
 
 ## 作者简介:
 
-- 小武一名大四学生，目前实习中...
-                  我本楚狂人，凤歌笑此生
+- 要把所有的夜归还给星河，
+   把所有的春光归还给疏疏篱落，
+   把所有的慵慵沉迷与不前，
+  归还给过去的我。
+  明日之我，
+  胸中有丘壑,
+  立马振山河。
 
 - the whole of life becomes an act of letting go, 
      but what always hurts the most is not taking a moment to say goodbye
